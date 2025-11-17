@@ -1,0 +1,4 @@
+com\narottam\bookHub2\controller\Book2Controller.class
+com\narottam\bookHub2\dao\Book2DAOImpl.class
+com\narottam\bookHub2\dao\Book2DAO.class
+com\narottam\bookHub2\entity\Book2.class
